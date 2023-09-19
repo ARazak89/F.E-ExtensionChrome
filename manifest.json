@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Abdel Favories",
+    "description": "Ma première extension chrome qui represente une liste de mes Favories",
+    "version": "1.0",
+    // Hassane Abdel-Razal
+    "action": {
+        "default_popup": "pop.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
